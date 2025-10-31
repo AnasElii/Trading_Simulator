@@ -5,7 +5,7 @@
 [![Contributors](https://img.shields.io/github/contributors/anaselii/Trading_Simulator.svg)](https://github.com/anaselii/Trading_Simulator/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/AnasElii/Trading_Simulator.svg?style=social&label=Star)](https://github.com/AnasElii/Trading_Simulator)
 
-![Trading Simulator UI Demo](https://s1.ezgif.com/tmp/ezgif-18cda60a17fff8.gif)
+![Trading Simulator UI Demo](https://i.imgur.com/fDrCcCB.gif)
 
 A high-performance trading simulator built with C++ and Qt/QML that processes real-time market data from cryptocurrency exchanges to estimate transaction costs and measure market impact.
 
